@@ -1,0 +1,19 @@
+{
+  "name": "gaokao-cheatlist",
+  "version": "1.0.0",
+  "description": "\"cheatlists\" of my Chinese gaokao subjects, including math, physics and chemistry",
+  "main": "scripts/index.js",
+  "scripts": {
+    "pull": "node scripts/pull-from-trilium.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memset0/gaokao-cheatlist.git"
+  },
+  "author": "memset0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memset0/gaokao-cheatlist/issues"
+  },
+  "homepage": "https://github.com/memset0/gaokao-cheatlist#readme"
+}
